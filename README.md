@@ -47,3 +47,7 @@ npm run electron:linux
 ## Video Demo
 
 [![](http://img.youtube.com/vi/Wf7SAIfr04M/0.jpg)](http://www.youtube.com/watch?v=Wf7SAIfr04M "")
+
+
+
+grandway_wang_20190909
